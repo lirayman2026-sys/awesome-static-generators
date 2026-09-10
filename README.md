@@ -121,6 +121,7 @@ A static web site generator is an application that takes plain text files and co
 ### Marketing
 
 - [Milou](https://github.com/Tsukumogami-Software/milou) - Create beautiful and informative press kits to showcase your company and products to the medias - `#Node.js`
+- [SaveBlitz deals-site builder](https://github.com/lirayman2026-sys/saveblitz-deals-site-builder) - Dependency-free Python generator that renders a promotional product feed into a paginated static deals site with a real 404 page, sitemap and robots.txt (the generator behind saveblitz.com). - `#Python`
 
 ### Code Playground
 
